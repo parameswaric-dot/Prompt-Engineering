@@ -17,3 +17,9 @@ plotly
 pillow
 pypdf
 torch
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+openai
+tiktoken
